@@ -87,7 +87,7 @@ Take a look at each of the [C4 Model Diagram Samples](samples/C4CoreDiagrams.md)
 
 ## Snippets for Visual Studio Code
 
-Because the PlantUML support inside of Visual Studio Code is excellent with the [PlantUML extension](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml), you can also find VS Code snippets for C4-PlantUML at [.vscode/C4.code-snippets](.vscode/C4.code-snippets).
+Because the PlantUML support inside of Visual Studio Code is excellent with the [PlantUML extension](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml) and the [graphviz](http://www.graphviz.org/download/), you can also find VS Code snippets for C4-PlantUML at [.vscode/C4.code-snippets](.vscode/C4.code-snippets).
 
 Project level snippets are now supported in [VSCode 1.28](https://code.visualstudio.com/updates/v1_28#_project-level-snippets).
 Just include the `C4.code-snippets` file in the `.vscode` folder of your project.
